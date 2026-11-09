@@ -1,0 +1,15 @@
+C:\Users\олпшрл\Desktop\Study\lab00\lab00\bin\Debug\net10.0\lab00.exe
+C:\Users\олпшрл\Desktop\Study\lab00\lab00\bin\Debug\net10.0\lab00.deps.json
+C:\Users\олпшрл\Desktop\Study\lab00\lab00\bin\Debug\net10.0\lab00.runtimeconfig.json
+C:\Users\олпшрл\Desktop\Study\lab00\lab00\bin\Debug\net10.0\lab00.dll
+C:\Users\олпшрл\Desktop\Study\lab00\lab00\bin\Debug\net10.0\lab00.pdb
+C:\Users\олпшрл\Desktop\Study\lab00\lab00\obj\Debug\net10.0\lab00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\олпшрл\Desktop\Study\lab00\lab00\obj\Debug\net10.0\lab00.AssemblyInfoInputs.cache
+C:\Users\олпшрл\Desktop\Study\lab00\lab00\obj\Debug\net10.0\lab00.AssemblyInfo.cs
+C:\Users\олпшрл\Desktop\Study\lab00\lab00\obj\Debug\net10.0\lab00.csproj.CoreCompileInputs.cache
+C:\Users\олпшрл\Desktop\Study\lab00\lab00\obj\Debug\net10.0\lab00.dll
+C:\Users\олпшрл\Desktop\Study\lab00\lab00\obj\Debug\net10.0\refint\lab00.dll
+C:\Users\олпшрл\Desktop\Study\lab00\lab00\obj\Debug\net10.0\lab00.pdb
+C:\Users\олпшрл\Desktop\Study\lab00\lab00\obj\Debug\net10.0\lab00.genruntimeconfig.cache
+C:\Users\олпшрл\Desktop\Study\lab00\lab00\obj\Debug\net10.0\ref\lab00.dll
+C:\Users\олпшрл\Desktop\Study\lab00\lab00\obj\Debug\net10.0\lab00.csproj.Up2Date
