@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u043E\u043B\u043F\u0448\u0440\u043B\\Desktop\\Study\\lab3\\",
+  "WorkspaceRootPath": "C:\\Users\\\u043E\u043B\u043F\u0448\u0440\u043B\\Documents\\GitHub\\proglabs\\Study\\lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70135CB4-6512-445E-BFFC-57D26C2BE799}|lab3\\lab3.csproj|c:\\users\\\u043E\u043B\u043F\u0448\u0440\u043B\\desktop\\study\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70135CB4-6512-445E-BFFC-57D26C2BE799}|lab3\\lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|c:\\users\\\u043E\u043B\u043F\u0448\u0440\u043B\\documents\\github\\proglabs\\study\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u043E\u043B\u043F\u0448\u0440\u043B\\Desktop\\Study\\lab3\\lab3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043E\u043B\u043F\u0448\u0440\u043B\\Documents\\GitHub\\proglabs\\Study\\lab3\\lab3\\Program.cs",
               "RelativeDocumentMoniker": "lab3\\Program.cs",
-              "ToolTip": "C:\\Users\\\u043E\u043B\u043F\u0448\u0440\u043B\\Desktop\\Study\\lab3\\lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043E\u043B\u043F\u0448\u0440\u043B\\Documents\\GitHub\\proglabs\\Study\\lab3\\lab3\\Program.cs",
               "RelativeToolTip": "lab3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T10:45:32.433Z",
               "EditorCaption": ""
